@@ -1,7 +1,7 @@
 # ELABORAR_PROJETOS_DE_APLICACAO_PARA_WEB
 ## ETAPA 1: ANALIZAR E PLANEJAR
 
-## Durante o planejamento nós desenvolvedores respondemos algumas questões:
+## DURANTE O PLANEJAMENTO NÓS DESENVOLVEDORES RESPONDEREMOS ALGUMAS QUESTÕES:
 ## Quais os recursos que serão necessários
 ## E como podemos atender à suas nescessidades
 
